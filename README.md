@@ -1,4 +1,6 @@
-Code for implementing the FOCOPS algorithm
+Implementation for First Order Constraint Optimization in Policy Space (FOCOPS).
+
+Link to paper https://arxiv.org/abs/2002.06506
 
 ### Requirements
 [pytorch >= 1.3.1](https://pytorch.org/) <br>
